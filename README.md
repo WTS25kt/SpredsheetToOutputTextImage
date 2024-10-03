@@ -1,0 +1,2 @@
+# SpredsheetToOutputTextImage
+スプレッドシートに貼り付けた画像の下に画像の文字もスプレッドシートに自動で入力されるツール
